@@ -51,7 +51,7 @@ write.xlsx(ddbsyd, file = "Danske aktiekurser.xlsx", sheetName = "Kurser",colNam
 ## Selvstudie med videoløsning 3  
 Se videoen herunder, forsøg derefter at sammenligne 2 valgfrie aktier på din egen bærbare som i videoen. Husk der mangler ofte observationer, hvis der er dage uden registreret aktiekurs, skal du fjerne disse fra data.
  
-Hvis det driller med formatet af aktiedata, kan du hente en fil med aktiekurser for Danske Bank og Sydbank <a href="Bank aktiekurser.xlsx" download>her</a>.  
+Hvis det driller med formatet af aktiedata, kan du hente en fil med aktiekurser for Danske Bank og Sydbank <a href="Danske aktiekurser.xlsx" download>her</a>.  
 
 ```{r,  include=F, echo=FALSE,warning=FALSE}
 datatable(data.frame(ddbsyd))
@@ -65,7 +65,7 @@ datatable(data.frame(ddbsyd))
 <br>
 
 
-Du kan se oversættelser mellem danske og engelske excel koder <a href="https://excel1.tepedu.dk/excel-oversttelser.html" target="_blank">her</a>  
+Du kan se oversættelser mellem danske og engelske excel koder <a href="https://excel1.tepedu.dk/excel-oversættelser.html" target="_blank">her</a>  
 
 
 
