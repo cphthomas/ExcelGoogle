@@ -1,5 +1,12 @@
-Excel oversættelser
-===================
+---
+output: 
+  html_document: 
+    css: style.css
+    df_print: kable
+---
+
+# Excel oversættelser
+
 
 Nedenfor er en liste med de forskellige engelske og danske koder, man kan søge i filen hvis man skal finde en kode. Det er ofte en fordel, hvis man skal finde argumenter til en funktion eller eksempler, at man kan Google den engelske kode, så er der flere hjælpesider.  
 
