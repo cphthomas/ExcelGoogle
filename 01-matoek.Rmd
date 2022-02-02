@@ -9,7 +9,7 @@ pacman::p_load(timeDate, DT,plotly,exams,e1071,WriteXLS,maps,rdrop2,knitr,ggplot
 
 
 Forsøg at løse følgende:
-Vi vil starte med at hente en version af Excel hvis du ikke allerede har fået en version installeret. Der ligger vejledning omkring it <a href="https://www.cphbusiness.dk/media/1243/itsystemerpc5.pdf" target="_blank">her</a>
+Vi vil starte med at hente en version af Excel hvis du ikke allerede har fået en version installeret. 
 
 Man henter så Office 365 <a href="http://login.efif.dk/" target="_blank">her</a>
 
